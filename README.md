@@ -1,2 +1,1 @@
-# codedeploy
-Sample repository for AWS CodeDeploy
+# github-codedeploy
